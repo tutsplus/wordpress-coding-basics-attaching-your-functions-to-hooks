@@ -1,25 +1,13 @@
 # [WordPress Coding Basics: Attaching Your Functions to Hooks][published url]
 ## Instructor: [Rachel McCollin][instructor url]
 
+When you write a function in a plugin or your theme's functions file, how do you get it to run? Hooks, that's how! Hooks let you write clean and easy-to-maintain themes and plugins, and also let you modify the behaviour of third-party themes and plugins.
 
-[COURSE DESCRIPTION]
+In this course you'll learn how to attach functions to action and filter hooks, and when to choose each type. I'll show you how to attach your function to an action hook to run when a specific event occurs, and how to write a filter function to modify site content on the fly.
 
+## Source Files Description:
 
-## Source Files Description
-
-
-This repository contains the source code for the completed course project.
-
-This repository contains the completed source code for the course project - a simple Ruby image gallery.
-
-This repository contains the source to each exercise and sample project that was built throughout the course.
-
-The source files contain the Node.js app we are going to use as an example application in this course. It uses MongoDB and Redis for data and session storage, as well as socket.io for real-time communication with the client.
-
-
-## 3rd-Party Content
-
-The following [] are sourced from [] and licensed under Creative Commons [CC BY-2.0](https://creativecommons.org/licenses/by/2.0/) or [CC BY-SA-2.0](https://creativecommons.org/licenses/by-sa/2.0/).
+This repository contains the final version of the theme created during the course, along with some hooks and functions.
 
 ------
 
